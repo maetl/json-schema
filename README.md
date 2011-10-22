@@ -3,6 +3,11 @@ JSON Schema PHP Validator
 
 Validates PHP objects using JSON Schema (http://www.json.com/json-schema-proposal/)
 
+```
+$ pear channel-discover maetl.github.com/json-schema
+$ pear install json-schema/JsonSchema
+```
+
 JSON Schema
 -
 
