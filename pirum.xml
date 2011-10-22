@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>maetl.github.com/json-schema</name>
+  <summary>JsonSchema Channel</summary>
+  <alias>json-schema</alias>
+  <url>http://maetl.github.com/json-schema</url>
+</server>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://maetl.github.com/json-schema</id>
+    <updated>2011-10-22T20:03:10+11:00</updated>
+    <title>JsonSchema Channel Latest Releases</title>
+    <link href="http://maetl.github.com/json-schema/feed.xml" rel="self" />
+    <author>
+        <name>http://maetl.github.com/json-schema</name>
+    </author>
+
+
+</feed>
