@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/jsonschema">JsonSchema</p>
+    <c>maetl.github.com/json-schema</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>BSD</l>
+    <m>bruno_p_reis</m>
+    <s>Validates PHP objects using JSON Schema</s>
+    <d>JSON Schema is a specification for a JSON-based format for defining the structure of JSON data. JSON Schema provides a contract for what JSON data is required for a given application and how it can be modified, much like what XML Schema provides for XML. JSON Schema is intended to provide validation, documentation, and interaction control of JSON data.</d>
+    <da>2011-10-22 09:09:52</da>
+    <n>
+-
+ </n>
+    <f>6580</f>
+    <g>http://maetl.github.com/json-schema/get/JsonSchema-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>

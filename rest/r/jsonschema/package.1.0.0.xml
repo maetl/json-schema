@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+ <name>JsonSchema</name>
+ <channel>maetl.github.com/json-schema</channel>
+ <summary>Validates PHP objects using JSON Schema</summary>
+ <description>JSON Schema is a specification for a JSON-based format for defining the structure of JSON data. JSON Schema provides a contract for what JSON data is required for a given application and how it can be modified, much like what XML Schema provides for XML. JSON Schema is intended to provide validation, documentation, and interaction control of JSON data.</description>
+ <lead>
+  <name>Bruno Prieto Reis</name>
+  <user>bruno_p_reis</user>
+  <email>bruno_p_reis@users.sf.net</email>
+  <active>no</active>
+ </lead>
+ <developer>
+  <name>Mark Rickerby</name>
+  <user>maetl</user>
+  <email>me@maetl.net</email>
+  <active>yes</active>
+ </developer>
+ <date>2011-10-22</date>
+ <time>09:09:52</time>
+ <version>
+  <release>1.0.0</release>
+  <api>1.0.0</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license uri="http://www.freebsd.org/copyright/freebsd-license.html">BSD</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" install-as="JsonSchema.php" md5sum="f984fa678ceb98097bb821462b44b02b" name="src/JsonSchema.php" role="php" />
+   <file baseinstalldir="/" install-as="JsonSchemaUndefined.php" md5sum="82a74b7c63718d842e754a6420d5b8d2" name="src/JsonSchemaUndefined.php" role="php" />
+   <file md5sum="5167467e1fdaa27fb88c10e4c626e1c1" name="README.md" role="doc" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.4</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>
