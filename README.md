@@ -1,6 +1,8 @@
 JSON Schema PHP Validator
 =
 
+Validates PHP objects using JSON Schema (http://www.json.com/json-schema-proposal/)
+
 JSON Schema
 -
 
