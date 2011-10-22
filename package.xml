@@ -4,7 +4,7 @@
     http://pear.php.net/dtd/package-2.0
     http://pear.php.net/dtd/package-2.0.xsd">
  <name>JsonSchema</name>
- <uri>maetl.github.com/json-schema</uri>
+ <channel>maetl.github.com/json-schema</channel>
  <summary>Validates PHP objects using JSON Schema</summary>
  <description>JSON Schema is a specification for a JSON-based format for defining the structure of JSON data. JSON Schema provides a contract for what JSON data is required for a given application and how it can be modified, much like what XML Schema provides for XML. JSON Schema is intended to provide validation, documentation, and interaction control of JSON data.</description>
  <lead>
